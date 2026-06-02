@@ -18,9 +18,9 @@ The dataset is organized within the `data/` directory. At present, we provide th
 
 - 📂 `data/`
   - 📂 `test/` ✅ *(Available)*
-  - 📂 `train/` ❎ *(Empty / Not provided yet)*
-  - 📂 `val/` ❎ *(Empty / Not provided yet)*
+  - 📂 `train/` ❎ *(Under preparation)*
+  - 📂 `val/` ❎ *(Under preparation)*
 
 > **Note on Symbols:** 
 > - ✅ (Green Checkmark) indicates that the data is fully provided.
-> - ❎ (Green Cross) indicates that the directory exists but is currently empty or withheld.
+> - ❎ (Green Cross) indicates that the data is under preparation.
