@@ -11,15 +11,16 @@ This is the official repository for the paper: **DisasterBench: A Multimodal Ben
 - **Complex task taxonomy** spanning pre-, during-, and post-disaster stages
 - **DisasterVL**: a lightweight vision-language model for disaster reasoning
 - **Curriculum-guided training** enables token-efficient disaster reasoning
+
 ## Dataset Structure
 
 The dataset is organized within the `data/` directory. At present, we provide the **test set** for evaluation purposes. The `train` and `val` directories are initialized but kept empty, as the training and validation sets are not publicly released at this stage.
 
 - 📂 `data/`
   - 📂 `test/` ✅ *(Available)*
-  - 📂 `train/` ☑️ *(Empty / Not provided yet)*
-  - 📂 `val/` ☑️ *(Empty / Not provided yet)*
+  - 📂 `train/` ❎ *(Empty / Not provided yet)*
+  - 📂 `val/` ❎ *(Empty / Not provided yet)*
 
 > **Note on Symbols:** 
 > - ✅ (Green Checkmark) indicates that the data is fully provided.
-> - ☑️ (Gray/Black Checkmark) indicates that the directory exists but is currently empty or withheld.
+> - ❎ (Green Cross) indicates that the directory exists but is currently empty or withheld.
