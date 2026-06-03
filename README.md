@@ -17,7 +17,7 @@ This is the official repository for the paper: **DisasterBench: A Multimodal Ben
 The dataset is organized within the `data/` directory. At present, we provide the **test set** for evaluation purposes. The `train` and `val` directories are initialized but kept empty, as the training and validation sets are not publicly released at this stage.
 
 - 📂 `data/`
-  - 📂 `test/` - [查看测试集](./data/test/)
+  - 📂 `test/` [test](./data/test/)
   - 📂 `train/
   - 📂 `val/
 
