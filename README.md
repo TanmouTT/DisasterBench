@@ -17,10 +17,7 @@ This is the official repository for the paper: **DisasterBench: A Multimodal Ben
 The dataset is organized within the `data/` directory. At present, we provide the **test set** for evaluation purposes. The `train` and `val` directories are initialized but kept empty, as the training and validation sets are not publicly released at this stage.
 
 - 📂 `data/`
-  - 📂 `test/` ✅ *(Available)*
-  - 📂 `train/` ❎ *(Under preparation)*
-  - 📂 `val/` ❎ *(Under preparation)*
+  - 📂 `test/
+  - 📂 `train/
+  - 📂 `val/
 
-> **Note on Symbols:** 
-> - ✅ (Green Checkmark) indicates that the data is fully provided.
-> - ❎ (Green Cross) indicates that the data is under preparation.
